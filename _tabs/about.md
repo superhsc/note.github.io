@@ -4,5 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+你好，我叫郝世川。
+
+毕业于河南中医药大学，信息管理与信息系统
+
+自实习算起，参加工作已有五年之余，匆匆度过，一事无成。
+
+纸上得来终觉浅，绝知此事要躬行。又深知自己记性不好，时常忘记。故将工作、学习中的所思所想记录于此。
+
+希望，通过记录，建立起自己的技术栈，更能够在未来五年内成长为资深 Java 专家、业务领域专家、架构师 以及管理方面的游刃有余。
+
+
+- [github](https://github.com/superhsc)
